@@ -48,8 +48,8 @@ Phase I: architecture, UML and ER design, UI prototype, matching and skill-gap p
 Phase II (planned): database, authentication, session booking, feedback, career analytics dashboard, deployment.
 
 ## Team
-- Lakshmipriya Malaiyappan – [module]
-- [Member 2] – [module]
-- [Member 3] – [module]
+- Lakshmipriya Malaiyappan – [Frontend and UI/UX]
+- [karishma] – [Backend and Database]
+- [Atchayasri] – [ AI/ML]
 
-Guide: [Guide name]
+Guide: [DR . K . Saranya]
